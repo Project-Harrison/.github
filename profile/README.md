@@ -1,12 +1,9 @@
-## Hi there 👋
+We partner with mariners, shipping professionals, and data scientists to develop tools that address real-world problems in maritime operations, technical, and commercial management. Our long-term vision is rooted in responsible innovation, open collaboration, and a deep commitment to maritime and data science communities.
 
-<!--
 
-**Here are some ideas to get you started:**
+https://www.linkedin.com/in/tayljordan/
+[https://www.linkedin.com/company/105912568](https://www.linkedin.com/company/project-harrison)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+
+
