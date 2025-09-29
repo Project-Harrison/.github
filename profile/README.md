@@ -2,6 +2,7 @@ We partner with mariners, shipping professionals, and data scientists to develop
 
 
 https://www.linkedin.com/in/tayljordan/
+
 [https://www.linkedin.com/company/105912568](https://www.linkedin.com/company/project-harrison)
 
 
